@@ -4,3 +4,13 @@ body {
   background-size: cover;
 }
 
+.hwheaders{
+  display: flex;
+  gap:7em;
+  align-items: center;
+}
+
+
+#subj{
+  margin-left: 5em;
+}
